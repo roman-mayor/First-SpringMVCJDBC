@@ -85,6 +85,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -100,6 +103,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YR2YX6aGzgnkjTCu4sFuNZW0jG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -308,7 +312,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582891133232</updated>
       <workItem from="1582891137714" duration="9070000" />
-      <workItem from="1582908538972" duration="39643000" />
+      <workItem from="1582908538972" duration="40841000" />
     </task>
     <servers />
   </component>
